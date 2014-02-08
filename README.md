@@ -3,6 +3,8 @@ Index Tester
 
 This requires MySQL 5.6.5 to use FORMAT=JSON for EXPLAIN. 
 
+It also requires MySQL Connector/Python.
+
 Example run:
 
 	$ ./example.py 
